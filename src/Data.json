@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "Email": "honoland13@japanpost.jp",
+    "Name": "Hernando",
+    "Year": "2015",
+    "Make": "Acura",
+    "Model": "TLX",
+    "Car_ID": "48",
+    "Judge_ID": "J04",
+    "Judge_Name": "Bob",
+    "Total_Score":"62"
+  },
+  {
+    "id": 2,
+    "Email": "nlighterness2q@umn.edu",
+    "Name": "Noel",
+    "Year": "2015",
+    "Make": "Jeep",
+    "Model": "Wrangler",
+    "Car_ID": "124",
+    "Judge_ID": "J02",
+    "Judge_Name": "Carl",
+    "Total_Score":"124"
+  },
+  {
+    "id": 3,
+    "Email": "eguest47@microsoft.com",
+    "Name": "Edan",
+    "Year": "2015",
+    "Make": "Lexus",
+    "Model": "IS250",
+    "Car_ID": "222",
+    "Judge_ID": "J05",
+    "Judge_Name": "Adrian",
+    "Total_Score": "40"
+  },
+  {
+    "id": 4,
+    "Email": "hchilley40@fema.gov",
+    "Name": "Hieronymus",
+    "Year": "1993",
+    "Make": "Honda",
+    "Model": "Civic eG",
+    "Car_ID": "207",
+    "Judge_ID": "J06",
+    "Judge_Name": "Aaron",
+    "Total_Score": "40"
+  },
+  {
+    "id": 5,
+    "Email": "nnowick3d@tuttocitta.it",
+    "Name": "Nickolas",
+    "Year": "2016",
+    "Make": "Ford",
+    "Model": "Mystang",
+    "Car_ID": "167",
+    "Judge_ID": "J02",
+    "Judge_Name": "Carl",
+    "Total_Score": "20"
+  }
+]
