@@ -8,17 +8,17 @@ This prgram uses a Windows machine using a Unbuntu interface, and displays the o
 
 You must have NPM version 14 installed using: 
 
-sudo apt install npm
+*sudo apt install npm*
 
 You most have React packages intalled using:
 
-sudo npm -g install
+*sudo npm -g install*
 
 ## Running the program
 
 Once you have the dependacies intalled you can run the command:
 
-npm start
+*npm start*
 
 This command starts the React server and opens your google chrome to the website localhost:3000
 
